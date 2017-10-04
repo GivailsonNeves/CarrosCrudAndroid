@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20dp">
+
+    <EditText
+        android:id="@+id/acessorio_nome"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/acessorio_nome"
+        android:maxLength="20"
+        android:singleLine="true" />
+
+    <Space
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/btn_cancel_acessorio"
+        android:layout_alignParentTop="true"
+        android:layout_alignStart="@+id/btn_cancel_acessorio"
+        android:layout_marginTop="20dp"
+        />
+    <Switch
+        android:id="@+id/acessorio_obrigatorio"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/acessorio_opcional" />
+
+</LinearLayout>

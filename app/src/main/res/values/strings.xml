@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Crud Carros</string>
+    <string name="title_activity_splash_screen">Crud Carros</string>
+    <string name="btn_salvar">Salvar</string>
+    <string name="btn_cancelar">Cancelar</string>
+    <string name="btn_deletar">Excluir</string>
+
+    <string name="campos_invalidos">Verifique o preenchimento dos campos</string>
+    <string name="carro_ano_invalido">O ano deve ser entre 1888 e o ano posterior ao atual</string>
+    <string name="carro_aro_invalido">O aro do carro não pode ser zero</string>
+
+    <string name="carro_modelo">Modelo do carro</string>
+    <string name="carro_ano">Ano do carro</string>
+    <string name="carro_aro">Tamanho do aro</string>
+    <string name="acessorios">Acessorios:</string>
+
+    <string name="acessorio_nome">Nome Acessório</string>
+    <string name="acessorio_opcional">Acessório opcional?</string>
+
+    <string name="acessorios_titulo">Dados do acessorio</string>
+    <string name="campos_invalidos_acessorio_add">Não foi possível adicionar o acessório, verfique os campos!</string>
+    <string name="campos_invalidos_acessorio_update">Não foi possível atualizar o acessório, verfique os campos!</string>
+</resources>
