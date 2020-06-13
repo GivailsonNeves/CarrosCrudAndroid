@@ -18,10 +18,10 @@ Este projeto consiste em um Crud de dados feito na base do Sqlite da aplicação
 
 ## Screen Demo
 
-<img src="https://github.com/GivailsonNeves/CarrosCrudAndroid/blob/master/screen-shots/screenshot1.png?raw=true" width="150">&nbsp;
-<img src="https://github.com/GivailsonNeves/CarrosCrudAndroid/blob/master/screen-shots/screenshot2.png?raw=true" width="150">&nbsp;
-<img src="https://github.com/GivailsonNeves/CarrosCrudAndroid/blob/master/screen-shots/screenshot3.png?raw=true" width="150">
-<img src="https://github.com/GivailsonNeves/CarrosCrudAndroid/blob/master/screen-shots/screenshot4.png?raw=true" width="150">
+<img src="https://github.com/GivailsonNeves/CarrosCrudAndroid/blob/master/screenshot1.png.png?raw=true" width="150">&nbsp;
+<img src="https://github.com/GivailsonNeves/CarrosCrudAndroid/blob/master/screenshot2.png.png?raw=true" width="150">&nbsp;
+<img src="https://github.com/GivailsonNeves/CarrosCrudAndroid/blob/master/screenshot3.png.png?raw=true" width="150">
+<img src="https://github.com/GivailsonNeves/CarrosCrudAndroid/blob/master/screenshot4.png.png?raw=true" width="150">
 
 ## Sumário
 
